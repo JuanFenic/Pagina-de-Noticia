@@ -1,0 +1,72 @@
+
+body{
+    margin: 0;
+}
+
+
+.topbar{
+    height: 35px;
+background-color: #333;
+border-width: 0px 0px 3px ;
+border-style: solid;
+border-color: #fd8a24;
+}
+
+#opa{
+    margin: 0;
+    padding-top: 7px;
+   text-align: center;
+   
+   color:white;
+   font-size: 20px;
+   font-family: 'Open Sans', sans-serif
+  
+  
+    
+
+}
+
+
+header{
+
+padding-left: 350px;
+padding-right:350px ;
+}
+
+#susa{
+    
+    font-size: 45px;
+   font-family: 'Open Sans', sans-serif
+}
+#celu{
+   
+    font-size: 15px;
+   font-family: 'Open Sans', sans-serif
+   
+}
+
+#report{
+    color:#555;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700
+    
+}
+#refe{
+    color:#555;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#barra{
+    margin-top:15px;
+    height: 1px;
+    background-color: rgb(202, 202, 202);
+}
+
+#img1{
+   margin-right: 9px;
+}
+#img2{
+    margin-right: 9px;
+ }
+ 
